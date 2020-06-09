@@ -2,8 +2,6 @@
 
 [Boston Dynamics](https://www.bostondynamics.com)
 
->
-
 * Marc Raibert
 * Zachary Jackowski
 * Russell Tedrake

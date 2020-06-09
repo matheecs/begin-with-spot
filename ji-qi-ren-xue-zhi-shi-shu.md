@@ -54,7 +54,6 @@ description: 'Stay hungry, Stay foolish.'
   * g2o/Ceres
   * TensorFlow
   * PyTorch
-  * 
 
 ## 信息流
 
