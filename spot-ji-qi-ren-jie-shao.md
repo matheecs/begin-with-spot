@@ -8,6 +8,8 @@
 
 ## Spot 设计理念
 
+![](.gitbook/assets/spotmini.jpg)
+
 ![&#x5BA2;&#x6237;&#x7AEF;-&#x670D;&#x52A1;&#x5668;&#xFF1B;&#x7F51;&#x7EDC;&#x901A;&#x4FE1;&#xFF1B;&#x670D;&#x52A1; \(gRPC+Protocol Buffers\)](.gitbook/assets/api_top_level.png)
 
 * 5 个**立体灰度相机** \(Projected Stereo, D430?\)
