@@ -113,3 +113,5 @@ Spot 自主导航未采用全局地图，Replay 阶段的地图不作更新。
 
 [HF-Net: Robust Hierarchical Localization at Large Scale](https://github.com/ethz-asl/hfnet)
 
+[Spot](https://robots.ieee.org/robots/spotmini/)
+
